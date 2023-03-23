@@ -102,3 +102,7 @@ dist
 
 # TernJS port file
 .tern-port
+
+# WA-Bot
+_IGNORE_*
+*_SESSION.data.json
